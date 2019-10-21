@@ -1,0 +1,27 @@
+Dynamisk hjemmeside slagplan.
+-følger tutorial fra serverless-stack.com
+
+step 1
+lav "Building a serveless REST API" + "Deploying the backend" færdig i Note.js
+
+step 2
+oversæt "Building a serveless REST API" + "Deploying the backend" til Flask
+
+step 3
+implementér mere relevante EO API kald ("New Scihub") i kapitlerne "Building a serveless REST API" + "Deploying the backend"
+
+step 4
+kør resten af serverless-stack færdig som normalt.
+
+step 5
+sæt New SciHub Front end op oven på serverless stack.
+
+forslag til udbygning af scihub:
+- logge ind med en bruger
+- så kan man bruge new scihub
+- alle requests bliver gemt i en database
+- automatisk billing, baseret på areal.
+
+links:
+https://serverless-stack.com/chapters/add-an-update-note-api.html
+https://serverless.com/blog/flask-python-rest-api-serverless-lambda-dynamodb/

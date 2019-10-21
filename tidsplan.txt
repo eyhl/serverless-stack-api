@@ -1,0 +1,23 @@
+Tidsplan:
+
+step 1 & 2:
+Eigil
+API Note.js: ca. 2 uger (~4 nov)
+
+Simon
+serverless i flask, samme punkter som Eigil (tjek link): ca. 3 uger (~11 nov)
+
+step 3:
+Implementér egen backend: ca. 2 uger (~25 nov.)
+revudér tidsplan
+
+step 4
+fortsæt med frontend: 3 uger (~16. dec)
+
+step 5
+Få new scihub eo frontend til at køre. 2 uger (~1 jan)
+
+step 6 - udbygning til the real shit
+Prototype med NDVI polygon, lidt a la den gamle YOEO.dk mockup 1 måned (~Februrar)
+
+
